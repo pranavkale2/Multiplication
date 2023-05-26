@@ -20,6 +20,11 @@ public class Multi {
 				a =70;
 				a =80;
 				System.out.println("multiplication :"+(a*b));
+				
+				// added by sujit chatko for conflict 
+				a =90;
+				a =100;
+				System.out.println("multiplication :"+(a*b));
 	}
 
 }

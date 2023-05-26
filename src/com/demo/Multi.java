@@ -10,6 +10,11 @@ public class Multi {
 		a =30;
 		a =40;
 		System.out.println("multiplication :"+(a*b));
+		
+		// added by pranav 
+		a =60;
+		a =50;
+		System.out.println("multiplication :"+(a*b));
 	}
 
 }
